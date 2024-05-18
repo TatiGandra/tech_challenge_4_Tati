@@ -67,10 +67,6 @@ with guia1:
             # Calcular a média dos valores do primeiro trimestre de 2024
             media_primeiro_trimestre = primeiro_trimestre_2024['y'].mean()
 
-            # Calcular a previsão (este é um exemplo, substitua pelo seu código de previsão)
-            # Exemplo:
-            # nova_data = pd.DataFrame({'ds': pd.date_range(start='2024-05-01', periods=30, freq='D')})
-            # previsao = modelo.predict(nova_data)
 
             # Supondo que 'previsao' é um DataFrame que contém as previsões
             # Supondo que você quer comparar a média do primeiro trimestre com a primeira previsão
